@@ -1,2 +1,2 @@
-#root=https://virtualion.github.io/nakamura/Resources/
+#root=https://virtualion.github.io/nakamura01/Resources/
 #prj=nakamura01
