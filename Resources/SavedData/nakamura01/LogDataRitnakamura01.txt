@@ -1,3 +1,4 @@
 id	data	x	y	z	theta	size	parent	uniqueCode
 3	Images/oogimachi.jpg,Wooden_thin	-0.03	3.5	-6.159997	0,12.97356,0	0.6	9	40
 5	Images/hagichogin01.jpg,WoodenBlack	-0.5100001	2.5	5.350002	0,13.45769,0	0.6	9	42
+7	MyModels/sekihi.zip	-11.51	5	0.9500015	-332.3972,0,0	15	10	46
